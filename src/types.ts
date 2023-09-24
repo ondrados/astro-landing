@@ -10,7 +10,7 @@ export interface FeatureItem {
   title: string;
 }
 
-export interface FooterLink {
+export interface IconLink {
   description: string;
   icon: string;
   url: string;
